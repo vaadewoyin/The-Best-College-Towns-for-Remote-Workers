@@ -36,4 +36,4 @@ the ranking based on weighted sum was used as it is simple and more intuitive an
 
 
 ### Tableau Dashboard
-![Dashboard.png](https://github.com/vaadewoyin/The-Best-College-Towns-for-Remote-Workers-Project/blob/main/Dashboard.png)
+![Dashboard.png](https://github.com/vaadewoyin/The-Best-College-Towns-for-Remote-Workers/blob/main/Dashboard_.png)
