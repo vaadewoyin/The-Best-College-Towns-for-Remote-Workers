@@ -1,4 +1,4 @@
-# The-Best-College-Towns-for-Remote-Workers-Project. 
+# The Best College Towns for Remote Workers. 
 
 ### Methodology & Sources: 
 The data used was collected from different sources; 
