@@ -35,5 +35,3 @@ the ranking based on weighted sum was used as it is simple and more intuitive an
 | 737  | Craftsbury, Vermont                | 4.3                   | 92.7                     | 0.183365                      | 0.001890                              | 45.218336                | 109.282              | 66.700                | 10            |
 
 
-### Tableau Dashboard
-![Dashboard.png](https://github.com/vaadewoyin/The-Best-College-Towns-for-Remote-Workers/blob/main/Dashboard_.png)
